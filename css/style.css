@@ -696,4 +696,8 @@ footer .copyright {
     footer .content {
         font-size: .625rem;
     }
+    
+    footer .terms {
+        display: none;
+    }
 }
